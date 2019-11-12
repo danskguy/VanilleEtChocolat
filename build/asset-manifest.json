@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/danskguy/VanilleEtChocolat/static/css/main.993c6432.chunk.css",
+    "main.js": "/danskguy/VanilleEtChocolat/static/js/main.127caf7c.chunk.js",
+    "main.js.map": "/danskguy/VanilleEtChocolat/static/js/main.127caf7c.chunk.js.map",
+    "runtime-main.js": "/danskguy/VanilleEtChocolat/static/js/runtime-main.4d2a0c3f.js",
+    "runtime-main.js.map": "/danskguy/VanilleEtChocolat/static/js/runtime-main.4d2a0c3f.js.map",
+    "static/js/2.a4057c21.chunk.js": "/danskguy/VanilleEtChocolat/static/js/2.a4057c21.chunk.js",
+    "static/js/2.a4057c21.chunk.js.map": "/danskguy/VanilleEtChocolat/static/js/2.a4057c21.chunk.js.map",
+    "index.html": "/danskguy/VanilleEtChocolat/index.html",
+    "precache-manifest.21dba78fc8ca788e6c24b367fccca51f.js": "/danskguy/VanilleEtChocolat/precache-manifest.21dba78fc8ca788e6c24b367fccca51f.js",
+    "service-worker.js": "/danskguy/VanilleEtChocolat/service-worker.js",
+    "static/css/main.993c6432.chunk.css.map": "/danskguy/VanilleEtChocolat/static/css/main.993c6432.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d2a0c3f.js",
+    "static/js/2.a4057c21.chunk.js",
+    "static/css/main.993c6432.chunk.css",
+    "static/js/main.127caf7c.chunk.js"
+  ]
+}
